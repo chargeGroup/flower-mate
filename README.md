@@ -1,6 +1,8 @@
 ## 花伴
 
-react-native、typeScript
+个人学习练习使用
+
+技术栈：react-native、redux、typeScript
 
 
 ```PowerShell
